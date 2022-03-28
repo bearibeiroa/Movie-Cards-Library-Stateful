@@ -2,7 +2,7 @@
 
 Este projeto foi elaborado como forma de consolidar conhecimentos durante o módulo de front-end do curso da Trybe.
 
-Esta é uma aplicação **React** composta por um `conjunto de componentes` React e controlada por estados.
+Esta é uma aplicação **React** composta por um `conjunto de componentes` React e controlada por estados, onde precisei implementar componentes que em conjunto resultam na biblioteca de cartões de filmes dinâmica.
 
 # Principais habilidades desenvolvidas
 
@@ -30,5 +30,3 @@ A aplicação consiste em uma biblioteca de cartões de filmes dinâmica utiliza
 Implementação dessa biblioteca consta abaixo.
 
 ![image](preview.gif)
-
-Precisei implementar componentes que em conjunto resultam na biblioteca de cartões de filmes dinâmica.
